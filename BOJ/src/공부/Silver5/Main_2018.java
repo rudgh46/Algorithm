@@ -3,7 +3,7 @@ package 공부.Silver5;
 import java.util.*;
 import java.io.*;
 
-public class Main_2018 {
+public class Main_2018 { //수들의 합 5
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
