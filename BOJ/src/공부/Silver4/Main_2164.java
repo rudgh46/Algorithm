@@ -3,7 +3,7 @@ package 공부.Silver4;
 import java.util.*;
 import java.io.*;
 
-public class Main_2164 {
+public class Main_2164 { //카드2
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
