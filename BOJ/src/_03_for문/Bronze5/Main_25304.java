@@ -2,7 +2,7 @@ package _03_for문.Bronze5;
 
 import java.util.Scanner;
 
-public class Main_25304 {
+public class Main_25304 { //영수증
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
