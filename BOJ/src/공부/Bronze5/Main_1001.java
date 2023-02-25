@@ -1,4 +1,4 @@
-package _01_입출력과_사칙연산.Bronze5;
+package 공부.Bronze5;
 import java.util.*;
 public class Main_1001 { //A-B
 

@@ -1,4 +1,4 @@
-package _01_입출력과_사칙연산.Bronze5;
+package 공부.Bronze5;
 
 public class Main_10718 {//We love kriii
 
