@@ -1,4 +1,4 @@
-package IM_Test.Silver4;
+package 공부.Silver4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

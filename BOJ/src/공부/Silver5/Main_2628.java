@@ -1,4 +1,4 @@
-package IM_Test.Silver5;
+package 공부.Silver5;
 
 import java.util.ArrayList;
 import java.util.Arrays;

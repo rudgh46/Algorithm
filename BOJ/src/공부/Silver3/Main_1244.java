@@ -1,4 +1,4 @@
-package IM_Test.Silver3;
+package 공부.Silver3;
 
 import java.util.Scanner;
 

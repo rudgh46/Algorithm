@@ -1,4 +1,4 @@
-package IM_Test.Silver5;
+package 공부.Silver5;
 
 /*
   [입력]
