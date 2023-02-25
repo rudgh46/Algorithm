@@ -1,4 +1,4 @@
-package _04_while문.Bronze1;
+package 공부.Bronze1;
 
 import java.util.Scanner;
 

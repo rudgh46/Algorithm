@@ -1,4 +1,4 @@
-package _05_1차원_배열.Bronze2;
+package 공부.Bronze2;
 
 import java.util.Scanner;
 
