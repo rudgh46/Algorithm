@@ -1,4 +1,4 @@
-package _14_백트래킹.Silver3;
+package 공부.Silver3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

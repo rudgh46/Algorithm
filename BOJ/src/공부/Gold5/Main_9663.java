@@ -1,4 +1,4 @@
-package _14_백트래킹.Gold5;
+package 공부.Gold5;
 
 import java.io.BufferedReader;
 import java.io.IOException;
