@@ -1,4 +1,4 @@
-package _24_DFS와_BFS.Silver2;
+package 공부.Silver2;
 
 import java.util.Scanner;
 

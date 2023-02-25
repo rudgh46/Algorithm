@@ -1,4 +1,4 @@
-package _24_DFS와_BFS.Silver3;
+package 공부.Silver3;
 
 import java.util.Scanner;
 /*
