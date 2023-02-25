@@ -1,4 +1,4 @@
-package 삼성_SW_역량테스트_기출.Gold2;
+package 공부.Gold2;
 
 public class Main_21609 {
 

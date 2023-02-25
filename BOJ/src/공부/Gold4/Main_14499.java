@@ -1,4 +1,4 @@
-package 삼성_SW_역량테스트_기출.Gold4;
+package 공부.Gold4;
 
 import java.util.Scanner;
 

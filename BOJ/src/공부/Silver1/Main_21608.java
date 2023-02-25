@@ -1,4 +1,4 @@
-package 삼성_SW_역량테스트_기출.Silver1;
+package 공부.Silver1;
 
 import java.util.ArrayList;
 import java.util.Collections;
