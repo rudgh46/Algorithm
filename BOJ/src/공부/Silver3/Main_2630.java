@@ -1,4 +1,4 @@
-package _20_분할정복.Silver3;
+package 공부.Silver3;
 
 import java.util.Scanner;
 /*

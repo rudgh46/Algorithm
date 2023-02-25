@@ -1,4 +1,4 @@
-package _20_분할정복.Silver2;
+package 공부.Silver2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

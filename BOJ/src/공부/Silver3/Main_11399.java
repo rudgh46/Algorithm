@@ -1,4 +1,4 @@
-package _16_그리디_알고리즘.Silver3;
+package 공부.Silver3;
 
 import java.util.Arrays;
 import java.util.Scanner;

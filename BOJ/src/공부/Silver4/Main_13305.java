@@ -1,4 +1,4 @@
-package _16_그리디_알고리즘.Silver4;
+package 공부.Silver4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
