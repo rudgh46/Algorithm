@@ -1,4 +1,4 @@
-package _11_브루트_포스.Silver5;
+package 공부.Silver5;
 
 import java.util.Scanner;
 

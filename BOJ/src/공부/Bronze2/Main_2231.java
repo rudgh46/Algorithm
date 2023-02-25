@@ -1,4 +1,4 @@
-package _11_브루트_포스.Bronze2;
+package 공부.Bronze2;
 
 import java.util.Scanner;
 

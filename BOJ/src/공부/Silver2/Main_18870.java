@@ -1,4 +1,4 @@
-package _12_정렬.Silver2;
+package 공부.Silver2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package _12_정렬.Silver4;
+package 공부.Silver4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

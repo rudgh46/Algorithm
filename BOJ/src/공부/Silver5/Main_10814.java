@@ -1,4 +1,4 @@
-package _12_정렬.Silver5;
+package 공부.Silver5;
 
 import java.util.Arrays;
 import java.util.Comparator;
