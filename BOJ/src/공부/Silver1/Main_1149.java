@@ -1,4 +1,4 @@
-package _15_동적_계획법1.Silver1;
+package 공부.Silver1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
