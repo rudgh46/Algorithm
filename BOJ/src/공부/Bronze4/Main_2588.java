@@ -1,4 +1,4 @@
-package _01_입출력과_사칙연산.Bronze4;
+package 공부.Bronze4;
 
 import java.util.Scanner;
 
