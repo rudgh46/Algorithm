@@ -1,4 +1,4 @@
-package Bronze5;
+package 공부.Bronze5;
 
 import java.util.Scanner;
 
