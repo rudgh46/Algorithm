@@ -1,6 +1,5 @@
 package 공부.Bronze5;
 
-import java.util.*;
 import java.io.*;
 
 public class Main_27866 { //문자와 문자열
