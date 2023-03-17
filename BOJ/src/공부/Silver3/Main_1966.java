@@ -2,7 +2,7 @@ package 공부.Silver3;
 
 import java.util.*;
 
-public class Main_1966 {
+public class Main_1966 { //프린터 큐
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
